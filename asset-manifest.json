@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.f756bc45.css",
-    "main.js": "/react-deploy/static/js/main.c399b7d4.js",
+    "main.css": "/react-deploy/static/css/main.677d5b8e.css",
+    "main.js": "/react-deploy/static/js/main.b92cb1d5.js",
     "static/js/787.d6cb1aba.chunk.js": "/react-deploy/static/js/787.d6cb1aba.chunk.js",
+    "static/media/A-PROOF_team.png": "/react-deploy/static/media/A-PROOF_team.b05f85263ad6e3d81d18.png",
     "static/media/doctors.png": "/react-deploy/static/media/doctors.655ac04ecd4296dab77d.png",
     "static/media/A-PROOF.mp4": "/react-deploy/static/media/A-PROOF.88106c151463c0ee9632.mp4",
     "static/media/PublicSans-Bold.ttf": "/react-deploy/static/media/PublicSans-Bold.9cf144b0c7cfebd1c6ce.ttf",
     "static/media/PublicSans-Light.ttf": "/react-deploy/static/media/PublicSans-Light.996c0ed1b19989fb27d3.ttf",
     "index.html": "/react-deploy/index.html",
-    "main.f756bc45.css.map": "/react-deploy/static/css/main.f756bc45.css.map",
-    "main.c399b7d4.js.map": "/react-deploy/static/js/main.c399b7d4.js.map",
+    "main.677d5b8e.css.map": "/react-deploy/static/css/main.677d5b8e.css.map",
+    "main.b92cb1d5.js.map": "/react-deploy/static/js/main.b92cb1d5.js.map",
     "787.d6cb1aba.chunk.js.map": "/react-deploy/static/js/787.d6cb1aba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f756bc45.css",
-    "static/js/main.c399b7d4.js"
+    "static/css/main.677d5b8e.css",
+    "static/js/main.b92cb1d5.js"
   ]
 }
